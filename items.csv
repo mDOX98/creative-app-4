@@ -1,0 +1,10 @@
+﻿item_id,name,type,cost,_stat_00,_stat_01,_stat_02,_stat_03,iconfile
+0,Dagger,_weapon,1,1,1,4,4,tile087.png
+1,Sword,_weapon,2,2,1,6,3,tile081.png
+2,Crossbow,_weapon,3,3,1,8,2,tile099.png
+3,Axe,_weapon,4,4,1,10,1,tile090.png
+4,Shield,_shield,2,-2,1,1,3,tile096.png
+5,Leather Helmet,_helmet,3,0,0,0,2,tile114.png
+6,Leather Armor,_armor,4,-1,1,2,1,tile118.png
+7,Leather Boots,_boots,2,2,0,0,0,tile130.png
+8,Leather Gloves,_gloves,1,1,0,0,1,tile128.png
