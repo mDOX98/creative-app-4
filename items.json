@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f3c"
+  },
+  "item_id": 0,
+  "name": "Dagger",
+  "type": "_weapon",
+  "cost": 1,
+  "_stat_00": 1,
+  "_stat_01": 1,
+  "_stat_02": 4,
+  "_stat_03": 4,
+  "iconfile": "tile087.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f3d"
+  },
+  "item_id": 1,
+  "name": "Sword",
+  "type": "_weapon",
+  "cost": 2,
+  "_stat_00": 2,
+  "_stat_01": 1,
+  "_stat_02": 6,
+  "_stat_03": 3,
+  "iconfile": "tile081.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f3e"
+  },
+  "item_id": 2,
+  "name": "Crossbow",
+  "type": "_weapon",
+  "cost": 3,
+  "_stat_00": 3,
+  "_stat_01": 1,
+  "_stat_02": 8,
+  "_stat_03": 2,
+  "iconfile": "tile099.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f3f"
+  },
+  "item_id": 3,
+  "name": "Axe",
+  "type": "_weapon",
+  "cost": 4,
+  "_stat_00": 4,
+  "_stat_01": 1,
+  "_stat_02": 10,
+  "_stat_03": 1,
+  "iconfile": "tile090.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f40"
+  },
+  "item_id": 4,
+  "name": "Shield",
+  "type": "_shield",
+  "cost": 2,
+  "_stat_00": -2,
+  "_stat_01": 1,
+  "_stat_02": 1,
+  "_stat_03": 3,
+  "iconfile": "tile096.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f41"
+  },
+  "item_id": 5,
+  "name": "Leather Helmet",
+  "type": "_helmet",
+  "cost": 3,
+  "_stat_00": 0,
+  "_stat_01": 0,
+  "_stat_02": 0,
+  "_stat_03": 2,
+  "iconfile": "tile114.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f42"
+  },
+  "item_id": 6,
+  "name": "Leather Armor",
+  "type": "_armor",
+  "cost": 4,
+  "_stat_00": -1,
+  "_stat_01": 1,
+  "_stat_02": 2,
+  "_stat_03": 1,
+  "iconfile": "tile118.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f43"
+  },
+  "item_id": 7,
+  "name": "Leather Boots",
+  "type": "_boots",
+  "cost": 2,
+  "_stat_00": 2,
+  "_stat_01": 0,
+  "_stat_02": 0,
+  "_stat_03": 0,
+  "iconfile": "tile130.png"
+},{
+  "_id": {
+    "$oid": "6376f3f46112773db8737f44"
+  },
+  "item_id": 8,
+  "name": "Leather Gloves",
+  "type": "_gloves",
+  "cost": 1,
+  "_stat_00": 1,
+  "_stat_01": 0,
+  "_stat_02": 0,
+  "_stat_03": 1,
+  "iconfile": "tile128.png"
+}]
